@@ -1,0 +1,12 @@
+.box{
+ background-color:  rgb(40,47,97);
+  padding: 40px;
+  border: 2px solid yellow;
+  box-shadow: 5px 5px 10px 10px rgba(101,175,10,0.5);
+  color: white;
+
+  margin: 40px;
+}
+
+
+
